@@ -1,7 +1,6 @@
 d:\SampleAPIPoc\ModelEntities\bin\Debug\netstandard2.0\ModelEntities.deps.json
 d:\SampleAPIPoc\ModelEntities\bin\Debug\netstandard2.0\ModelEntities.dll
 d:\SampleAPIPoc\ModelEntities\bin\Debug\netstandard2.0\ModelEntities.pdb
-d:\SampleAPIPoc\ModelEntities\obj\Debug\netstandard2.0\ModelEntities.csprojResolveAssemblyReference.cache
 d:\SampleAPIPoc\ModelEntities\obj\Debug\netstandard2.0\ModelEntities.csproj.CoreCompileInputs.cache
 d:\SampleAPIPoc\ModelEntities\obj\Debug\netstandard2.0\ModelEntities.AssemblyInfoInputs.cache
 d:\SampleAPIPoc\ModelEntities\obj\Debug\netstandard2.0\ModelEntities.AssemblyInfo.cs
