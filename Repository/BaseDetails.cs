@@ -9,6 +9,11 @@ namespace Repository
 {
     public class BaseDetails
     {
+
+
+
+
+
      //   private readonly IConfiguration _config;
         protected IDbConnection con;
         public BaseDetails()
