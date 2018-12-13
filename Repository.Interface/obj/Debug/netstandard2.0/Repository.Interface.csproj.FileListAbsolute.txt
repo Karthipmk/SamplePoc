@@ -1,0 +1,11 @@
+d:\SampleAPIPoc\Repository.Interface\bin\Debug\netstandard2.0\Repository.Interface.deps.json
+d:\SampleAPIPoc\Repository.Interface\bin\Debug\netstandard2.0\Repository.Interface.dll
+d:\SampleAPIPoc\Repository.Interface\bin\Debug\netstandard2.0\Repository.Interface.pdb
+d:\SampleAPIPoc\Repository.Interface\bin\Debug\netstandard2.0\ModelEntities.dll
+d:\SampleAPIPoc\Repository.Interface\bin\Debug\netstandard2.0\ModelEntities.pdb
+d:\SampleAPIPoc\Repository.Interface\obj\Debug\netstandard2.0\Repository.Interface.csprojResolveAssemblyReference.cache
+d:\SampleAPIPoc\Repository.Interface\obj\Debug\netstandard2.0\Repository.Interface.csproj.CoreCompileInputs.cache
+d:\SampleAPIPoc\Repository.Interface\obj\Debug\netstandard2.0\Repository.Interface.AssemblyInfoInputs.cache
+d:\SampleAPIPoc\Repository.Interface\obj\Debug\netstandard2.0\Repository.Interface.AssemblyInfo.cs
+d:\SampleAPIPoc\Repository.Interface\obj\Debug\netstandard2.0\Repository.Interface.dll
+d:\SampleAPIPoc\Repository.Interface\obj\Debug\netstandard2.0\Repository.Interface.pdb

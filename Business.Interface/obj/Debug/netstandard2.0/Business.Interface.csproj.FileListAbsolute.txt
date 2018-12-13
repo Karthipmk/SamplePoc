@@ -1,0 +1,11 @@
+d:\SampleAPIPoc\Business.Interface\bin\Debug\netstandard2.0\Business.Interface.deps.json
+d:\SampleAPIPoc\Business.Interface\bin\Debug\netstandard2.0\Business.Interface.dll
+d:\SampleAPIPoc\Business.Interface\bin\Debug\netstandard2.0\Business.Interface.pdb
+d:\SampleAPIPoc\Business.Interface\bin\Debug\netstandard2.0\ModelEntities.dll
+d:\SampleAPIPoc\Business.Interface\bin\Debug\netstandard2.0\ModelEntities.pdb
+d:\SampleAPIPoc\Business.Interface\obj\Debug\netstandard2.0\Business.Interface.csprojResolveAssemblyReference.cache
+d:\SampleAPIPoc\Business.Interface\obj\Debug\netstandard2.0\Business.Interface.csproj.CoreCompileInputs.cache
+d:\SampleAPIPoc\Business.Interface\obj\Debug\netstandard2.0\Business.Interface.AssemblyInfoInputs.cache
+d:\SampleAPIPoc\Business.Interface\obj\Debug\netstandard2.0\Business.Interface.AssemblyInfo.cs
+d:\SampleAPIPoc\Business.Interface\obj\Debug\netstandard2.0\Business.Interface.dll
+d:\SampleAPIPoc\Business.Interface\obj\Debug\netstandard2.0\Business.Interface.pdb
